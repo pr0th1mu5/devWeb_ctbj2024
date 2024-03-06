@@ -1,2 +1,5 @@
-# devWeb_ctbj2024
-Repositório de estudo da disciplina de Desenvolvimento Web
+### Desenvolvimento Web - Conceitos e Fundamentos
+> [!Important]
+> Repositório de estudo da disciplina de Desenvolvimento Web
+
+
