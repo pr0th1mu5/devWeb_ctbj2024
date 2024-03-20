@@ -18,7 +18,7 @@
           </body>
         </html>
       ```
-3. (3,0) - Com base no modelo de estrutura anterior, crie um documento de extensão .html e use o editor da sua preferência ou [clique aqui](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor) para:
+3. (2,0) - Com base no modelo de estrutura anterior, crie um documento de extensão .html e use o editor da sua preferência ou [clique aqui](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor) para:
 
    3.1 Usando css, criar uma box "caixaCentro" no centro da página com: 1080 pixels de largura por 800 pixels de altura;
 
@@ -36,7 +36,8 @@
    
    > PureCSS - Pequeno, responsivo e rápido framework CSS. [Clique aqui](https://purecss.io/);
    
-   
+5. (4,0) - Com base no framework CSS escolhido, refaça sua estrutura de site usando-os e compare os dois sites que você desenvolveu.
+6. Ao final, faça o upload dos arquivos para seu repositório criado no início dessa atividade.
 
 
 
