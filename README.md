@@ -22,7 +22,7 @@
 
    3.1 Usando css, criar uma box "caixaCentro" no centro da página com: 1080 pixels de largura por 800 pixels de altura;
 
-   3.2 Altere a cor de fundo preto;
+   3.2 Altere a cor de fundo para preto;
 
    3.3 Dentro da box "caixaCentro", crie mais duas box's. Uma à esquerda e outra à direita, uma de fundo vermelho e a outra de fundo amarela.
 
