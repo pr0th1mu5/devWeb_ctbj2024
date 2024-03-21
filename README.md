@@ -18,7 +18,8 @@
           </body>
         </html>
       ```
-3. (2,0) - Com base no modelo de estrutura anterior, crie um documento de extensão .html e use o editor da sua preferência ou [clique aqui](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor) para:
+      **`código de base`**
+4. (2,0) - Com base no modelo de estrutura anterior, crie um documento de extensão .html e use o editor da sua preferência ou [clique aqui](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor) para:
 
    3.1 Usando css, criar uma box "caixaCentro" no centro da página com: 1080 pixels de largura por 800 pixels de altura;
 
@@ -30,15 +31,15 @@
 
    3.5 A caixa da direita será fundo amarelo com largura e algura de: 500x600;
 
-4. (2,0) - Observe nos link's abaixo os frameworks que existem para CSS e escolha um para trabalhar.
+5. (2,0) - Observe nos link's abaixo os frameworks que existem para CSS e escolha um para trabalhar.
 
    > BootStrap CSS - Um conjunto de recursos css. [Clique aqui](https://getbootstrap.com/docs/5.3/getting-started/introduction/);
    
    > PureCSS - Pequeno, responsivo e rápido framework CSS. [Clique aqui](https://purecss.io/);
    
-5. (4,0) - Com base no framework CSS escolhido, refaça sua estrutura de site usando-os e compare os dois sites que você desenvolveu.
-6. Ao final, faça o upload dos arquivos para seu repositório criado no início dessa atividade.
-7. (Extra-Novo) - Documente o passo a passo que você irá fazer para completar a segunda parte da atividade (construção de uma página utilizando um framework CSS) em seu repositório. Você pode utilizar o seu arquivo README. Cada etapa que você realizar, documente em detalhes utilizando recursos de edição Markdown ([Clique aqui para escolher o que você irá usar](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)).
+6. (4,0) - Com base no framework CSS escolhido, refaça sua estrutura de site usando-os e compare os dois sites que você desenvolveu.
+7. Ao final, faça o upload dos arquivos para seu repositório criado no início dessa atividade.
+8. (Extra-Novo) - Documente o passo a passo que você irá fazer para completar a segunda parte da atividade (construção de uma página utilizando um framework CSS) em seu repositório. Você pode utilizar o seu arquivo README. Cada etapa que você realizar, documente em detalhes utilizando recursos de edição Markdown ([Clique aqui para escolher o que você irá usar](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)).
 
 
 
