@@ -38,6 +38,7 @@
    
 5. (4,0) - Com base no framework CSS escolhido, refaça sua estrutura de site usando-os e compare os dois sites que você desenvolveu.
 6. Ao final, faça o upload dos arquivos para seu repositório criado no início dessa atividade.
+7. (Extra-Novo) - Documente o passo a passo que você irá fazer para completar a segunda parte da atividade (construção de uma página utilizando um framework CSS) em seu repositório. Você pode utilizar o seu arquivo README. Cada etapa que você realizar, documente em detalhes utilizando recursos de edição Markdown ([Clique aqui para escolher o que você irá usar](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)).
 
 
 
