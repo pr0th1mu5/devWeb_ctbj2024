@@ -5,7 +5,7 @@
 
 1. Existem três tipos de uso de recursos para estilização de tags html, Utilize a primeira conforme se pede a seguir:
 
->  Uso de estilização dentro do cabeçalho, ou seja, dentro do <head>
+>  Uso de estilização dentro do cabeçalho, ou seja, dentro do `<head>`
 
 `Faça um código exemplo onde você estiliza um parágrafo de 3 linhas.`
 
