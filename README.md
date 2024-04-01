@@ -42,4 +42,16 @@
 8. (Extra-Novo) - Documente o passo a passo que você irá fazer para completar a segunda parte da atividade (construção de uma página utilizando um framework CSS) em seu repositório. Você pode utilizar o seu arquivo README. Cada etapa que você realizar, documente em detalhes utilizando recursos de edição Markdown ([Clique aqui para escolher o que você irá usar](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)).
 
 
+> [!important]
+> Esse trecho de código não precisa de um novo repositório. Vamos utilizar esse mesmo.
+> Realize as atividades de hoje e ao final, faça o que se pede nos últimos itens da atividade.
+
+# Aula 01/04 - Revisando conceitos básicos de html
+
+1. Crie um documento html para nossas atividades e salve-o com seu nome.
+2. Escreva um código html puro de algo que você queira construir uma home page simples sem css.
+3. Utilize os recursos vistos em sala de aula e outros mais que você achar interessante.
+4. Comente seu código html em cada trecho de forma explicativa.
+5. Realize o upload do arquivo .html com seu nome nesse repositório.
+
 
